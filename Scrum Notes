@@ -1,0 +1,144 @@
+## Scrum (Systematic Customer Resolution Unraveling Meeting)
+
+- Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+
+## Scrum Pillars
+
+    1.  Transparency
+    2.  Inspection
+    3.  Adaptation
+
+## Scrum Values
+
+    1.  Commitment
+    2.  Focus
+    3.  Openness
+    4.  Respect
+    5.  Courage
+
+## Scrum Team ------------------------------------------------------------------------------------------------------------->
+
+Developers => Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint. (Necessary to be present in meeting)
+
+              # Responsibilities
+
+              Developers are always accountable for:
+
+              Creating a plan for the Sprint, the Sprint Backlog;
+
+              Instilling quality by adhering to a Definition of Done;
+
+              Adapting their plan each day toward the Sprint Goal; and,
+
+              Holding each other accountable as professionals.
+
+Product Owner => The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. (Not necessary to be present in meeting)
+
+             # Responsibilities
+
+              Developing and explicitly communicating the Product Goal;
+
+              Creating and clearly communicating Product Backlog items;
+
+              Ordering Product Backlog items; and,
+
+              Ensuring that the Product Backlog is transparent, visible and understood.
+
+Scrum Master => The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. (Not necessary to be present in meeting)
+
+# Scrum Events --------------------------------------------------------------------------------------------------------------------------->
+
+    The Sprint => fixed length events of one month or less to create consistency. 1 month or less
+
+    Sprint Planning => Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. 8 hours
+
+    Daily Scrum => The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work. 15 mins
+
+    Sprint Review => During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. 4 hours/ month
+
+    Sprint Retrospective => The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. 3 hours / month
+
+# Sprint --------------------------------------------------------------------------------------------------------------------------------------->
+
+fixed length events of one month or less to create consistency
+
+# Scrum Artifacts ----------------------------------------------------------------------------------------------------------------------------->
+
+    Product Backlog => The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
+
+    Sprint Backlog => The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how). also called prioritized product backlog. A sprint backlog describes what the team should develop during a sprint. Some Scrum teams also call it an iteration backlog or a release backlog. the development team is responsible for managing the sprint backlog throughout a sprint.
+
+    Increment => An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
+
+# Acceptance vs Done ------------------------------------------------------------------------------------------------------------->
+
+Acceptance is calculated on individual feature or issue or user story.
+Done is universal means everything that ur engineering team need to do in that sprint.
+
+To consider "Done" following criterion should be met -
+Unit test passed
+Code reviewed
+Acceptance criteria for each issue met
+Functional tests passed
+Non-functional requirements met
+Product owner accepts the User Story
+
+**A good rule of thumb is to think of your definition of done as the minimum work required to meet your agreed-upon quality level.**
+
+        Five Steps to define Definition of Done -
+
+        1. Decide on your definition of done as a team
+        2. Create a checklist template for your definition of done
+        3. Don’t obsess over the list of criteria
+        4. Make sure each individual task has its own specific acceptance criteria.
+        5. Check your DoD against organizational needs
+
+## Daily Scrum => Together with your Scrum Team, evaluate how you can improve the use of your Definition of Done during the Daily Scrum to make your progress evaluation more effective.
+
+## Sprint Goal => The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. Sprint goals are the result of a negotiation between the Product Owner and the Development Team. Sprint Goals should be specific and measurable. While the selected work for the Sprint Backlog represents a forecast, the Development Team gives their commitment to achieving the Sprint Goal.
+
+# The process of updating a backlog is called backlog refinement. Ideally, a sprint backlog must not be updated more than once per day and it’s best to do this during the daily Scrum meeting.
+
+# Scrum Burndown Chart => Sprint burndown charts show the work that’s yet to be completed in the current sprint. Scrum teams can use a burndown chart sprint to gauge if they’ll be able to complete the work on time.
+
+# Product Backlog vs Sprint Backlog --------------------------------------------------------------------------------------------->
+
+      1. It’s the main project document, also called the project backlog
+      1. It’s a subset of the product backlog – dedicated to one sprint only. It’s also called the prioritized product backlog
+
+      1. Contains all product requirements for the project
+      1. Contains only those product requirements that’ll be developed in a sprint
+
+      1. Created upon receiving the user requirements
+      1. Created during sprint planning
+
+      1. Product owner handles backlog management
+      1. Development team handles backlog management
+
+# How to Update backlog
+
+1. If you can include additional tasks, add it to the sprint backlog
+2. If something is unnecessary, remove it from the sprint backlog
+3. If something has been completed, update the remaining work in the sprint backlog
+4. Ideally, a sprint backlog must not be updated more than once per day and it’s best to do this during the daily Scrum meeting.
+
+# Steps in making scrum ------------------------------------------------------------------------------------------------------------------->
+
+Scrum Team decide => Goal / Features decided ==> Sprint 0 is conducted (Initial Meeting) => Task in divided in sprints of 1 week to 1 month duration ==> Sprint events according to their scheduled occurrences
+
+# Extras
+
+- building the sprint backlog starts with the sprint planning session.
+- At the sprint planning meeting, the product owner describes the goal to be met in the upcoming sprint. The owner also suggests which product backlog items will help achieve that goal.
+- While the entire Scrum team discusses these items during sprint planning, it’s up to the development team to decide which ones they’ll be tackling in the sprint. However, the team must include at least one improvement that was identified in the previous sprint retrospective (for continuous improvement of their workflows).
+- As the sprint moves forward, the team learns more about the work needed to achieve the sprint goal and the plan becomes clearer. To reflect this in the sprint backlog, you should update it. The process of updating a backlog is called backlog refinement.
+
+# Code Coverage - Code coverage is a metric that can help you understand how much of your source is tested.
+
+# Automation Build - A build in software development converts source files into a software product in its final form. An automated build does this without human intervention.
+
+# Continuous Integration - Continuous integration refers to the build and unit testing stages of the software release process. Every revision that is committed triggers an automated build and test. With continuous delivery, code changes are automatically built, tested, and prepared for a release to production.
+
+# Pair programming - Two developers write code together, providing constant peer review.
+
+# System architecture is decided throughout the project as the understanding emerges and learn more about project.

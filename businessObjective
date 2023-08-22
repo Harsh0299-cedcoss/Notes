@@ -1,0 +1,127 @@
+
+Increase the sell by 20% per year.
+increase the permanent user by 30% per half-yearly.
+Provide discounts to increase the  sell.
+ Convert temporary customer to permanent customer by 50% yearly.
+Increase the sell of  home made toy by 5% per month.
+
+User Objective
+
+Get the toys at  normal price.
+Get hassle free delivery.
+Return ,refund process should be fast and traceable.
+All type of toys availability should be there.
+Chemical free toy  sellers should be there.
+
+Website Analysis
+
+Users point of view
+Details of products are not enough.
+discounted price is not calculated properly
+No searching is there .
+No filters are available.
+ux is not up to the mark.
+
+UX developers point of View
+designs of cards must be changed 
+functionality must be added to search the products.
+functionality must be there to filter the products.
+No rating of the products.
+
+UI developers point of View
+ hard to find the products as no searching is there.
+have to scroll a lot to react to the products 
+products details are not designed properly
+no colour combination is there
+
+Persona
+
+
+Persona-1
+Bio:
+    Sheetal is a working lady in a company.
+    she live with her family.
+	She is a married lady with 2 children.
+
+User Details:
+    Name  : Sheetal
+    Gender : Female
+    Age:  25
+    Income: 60k per month
+    location : India
+    Education: Graduation
+
+Frustration:
+Toys are not available which she need.(chemical free).
+Toys which she buy make her child to vomit.
+
+
+Persona -2
+Bio :
+Shashank is a working man he pursue his job from 9am to 8pm.
+He has 2 child , he live with her wife .
+His wife cannot go alone for shopping as she is new in this city.
+He don't get enough time to shop for his children and go out for shopping with her wife.
+He always wanted to gift toys to his children to make them happy.
+
+User Details:
+Name :Shashank
+Age :29
+income: 50k per month
+location: India
+Education: Masters
+
+Frustration:
+He don't get branded toys.
+He won't find a good shop online or offline for toys.
+
+
+
+scenarios
+
+Scenario 1:
+Sheetal is a working lady.
+she is a married lady with 1 child.
+she pursue her job from morning to evening she get exhausted after the job.
+when she went home she anyhow cook food for her family and went to sleep .
+she  won't able to give time to her child but she want to  make her child always happy to full fill this she buys toys for him almost every week so that he won't feel bad.
+she don't have time to shop from offline stores and chemical free assured toys are difficult to find it from offline store .
+After all she decided to shop from online Store.
+
+Scenario 2:
+
+Shashank is a working man he pursue his job from 9 am to  7 pm.
+He has 2 children , he live with her wife .
+His wife cannot go alone for shopping as she is new in this city.
+He don't get enough time to shop for his children and go out for shopping with her wife.
+He always wanted to gift toys to his children to make them happy.
+so he planned to shop form online store
+
+Competitive Analysis
+
+1. Fast delivery must be there and vegetables and other raw materials need to delivered fresh.
+2. Assurity of fresh products must be there according to that rating must be there.
+3. Return and refund policy must be fast and should be available 24*7.
+4. Helpline number must be available .
+5. Discount must be available .
+6. Actual price must not vary.
+
+Goals and Motivation for Redesign
+
+UX is not up the mark white space is needed between the cards.
+Late delivery should not be displayed on the top.
+clearly must be there in products that are displayed.
+A lots of calculation mistakes are there in discounted price. 
+
+
+
+Usability Testing
+
+Colour combination is not good.
+Cards are not properly designed.
+Rating of the products are not there.
+No searching is there of the products.
+No filters are there.
+
+
+
